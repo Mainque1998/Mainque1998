@@ -1,7 +1,7 @@
 # Hello there
-My name is Mainque Menjoulou and i'm a Systems Engineering student with a passion for application development.
-I'm currently finishing my degree, preparing my last exam and developing the final project to achieve my engineering degree.
-Here you can find some of my proyects.</br>
+My name is Mainque Menjoulou and i'm a Systems Engineering student with passion for application development.
+I'm currently developing the final project to achieve my engineering degree.</br>
+Here, you can find some of my projects done during my degree. I'm also developing a freelance project, you can see it pinned on my profile.</br>
 
 ## Currently working </br>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
